@@ -22,6 +22,8 @@ Create config.py
    
 
 Create lambda_function.py
+
+
     import json
     from config import base_url
     import requests
@@ -48,15 +50,19 @@ Make a zip file to upload to Layer
 mkdir pypackages
 
 pip3 install requests -t (put the path of file or folder) example below-
+
+
 pip3 install requests -t C:\Users\LENOVO\Downloads\pypackages
+
 
 zip the pypackages (in windows you can click right button and make a zip file)
 
 Upload the zip file in LAMBDA Layers
+
 ![Screenshot 2023-07-02 142536](https://github.com/shankarravi100197/Lambda-Interation/assets/109327386/aa6f570b-a266-43ca-8ee5-29745a7f3d96)
 
 
-Then go to Functions learning-lambda and add a Layer
+Then go to Functions Learning-lambda and add a Layer
 ![Screenshot 2023-07-02 142838](https://github.com/shankarravi100197/Lambda-Interation/assets/109327386/0c53ac1a-9333-44f5-a965-8c78ccaafb75)
 
 
