@@ -2,6 +2,9 @@
 
 Create a function
 
+![Screenshot 2023-07-02 130735](https://github.com/shankarravi100197/Lambda-Interation/assets/109327386/39bb8076-42e6-4c41-96ac-89a1f920e937)
+
+
 Create config.py
    base_url = "https://jsonplaceholder.typicode.com"
 
