@@ -6,11 +6,15 @@ Create a function
 
 ![Screenshot 2023-07-02 131115](https://github.com/shankarravi100197/Lambda-Interation/assets/109327386/eae625cd-2ab5-4106-b231-9a05cf950493)
 
+
 Sample API
+
 ![Screenshot 2023-07-02 135450](https://github.com/shankarravi100197/Lambda-Interation/assets/109327386/25aded43-9568-4bf6-b407-de7f21afb74b)
 
 
+
 Create config.py
+
    base_url = "https://jsonplaceholder.typicode.com"
    
    ![Screenshot 2023-07-02 135927](https://github.com/shankarravi100197/Lambda-Interation/assets/109327386/81806b8c-448a-4b9b-8601-732bf026e972)
