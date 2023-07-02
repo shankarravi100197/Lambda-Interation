@@ -66,19 +66,31 @@ Then go to Functions Learning-lambda and add a Layer
 ![Screenshot 2023-07-02 142838](https://github.com/shankarravi100197/Lambda-Interation/assets/109327386/0c53ac1a-9333-44f5-a965-8c78ccaafb75)
 
 
-Go to API
+Go to API Gateway
 
 Make REST API and New API
 ![Screenshot 2023-07-02 143314](https://github.com/shankarravi100197/Lambda-Interation/assets/109327386/b5e04c17-c740-4618-8706-5c7e7ffec36a)
 
-create API
+Create API
 
 Go to Actions 
+
+
 Create a Methods
+
+
 Select GET Method
+
+
 GET API
+
+
 Enable CORS
+
+
 Deploy API
+
+
 ![Screenshot 2023-07-02 143816](https://github.com/shankarravi100197/Lambda-Interation/assets/109327386/ada9aa94-22ed-44b1-b879-f0e3e73b34f7)
 
 
